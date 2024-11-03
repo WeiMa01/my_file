@@ -1,1 +1,5 @@
 LLaMA-2-7B/7B_W4A4KV4_lr_1.5_seed_0/R.bin filter=lfs diff=lfs merge=lfs -text
+LLaMA-2-7B/7B_W4A4KV16_lr_1.5_seed_0/R.bin filter=lfs diff=lfs merge=lfs -text
+LLaMA-2-7B/7B_W4A16KV16_lr_1.5_seed_0/R.bin filter=lfs diff=lfs merge=lfs -text
+LLaMA-2-7B/7B_W16A4KV4_lr_1.5_seed_0/R.bin filter=lfs diff=lfs merge=lfs -text
+LLaMA-2-7B/7B_W16A4KV16_lr_1.5_seed_0/R.bin filter=lfs diff=lfs merge=lfs -text
